@@ -15,6 +15,7 @@ html, body{
 body{
     background: url('../projeto-social/imagens/fundo.webp') no-repeat top center;
     background-size: cover;
+   
 }
 
 main{
@@ -38,8 +39,8 @@ iframe#tela{
     position: relative;
     top: 118px;
     left: 229px;
-    width: 282px;
-    height: 500px;
+    width: 289px;
+    height: 510px;
 }
 
 section#redes-sociais{
